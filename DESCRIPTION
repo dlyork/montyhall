@@ -1,0 +1,16 @@
+Package: montyhall
+Title: Monty Hall Simulation
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Diana",
+           family = "York",
+           role = c("aut", "cre"))
+Description: The project allows a user to simulate the famous Monty Hall Problem. The user is given the option to play the standard three door game, or 
+try different variations. The goal of this package is to show the best strategy of winning. 
+Depends: 
+    dplyr
+License: `use_mit_license()`
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
